@@ -19,7 +19,7 @@
                 <br></br>
                 <br></br>
                 <br></br>
-                <img src="img/UniStudy.png">
+                <img src="imagens/UniStudy.png">
                 <p class="description description-primary">O amigo dos vestibulandos!</p>
                 <br></br>
                 <br></br>

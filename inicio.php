@@ -66,7 +66,7 @@
     </div>
     <div class="bottom-content">
         <li class="">
-            <a href="#">
+            <a href="saindo.php">
                 <i class="bx bx-log-out icon" ></i>
                 <span class="text nav-text">Sair</span>
             </a>
